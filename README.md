@@ -3,9 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ORG/REPO/actions/workflows/ci.yml"><img src="https://github.com/ORG/REPO/actions/workflows/ci.yml/badge.svg" alt="CI status" /></a>
-  <a href="https://github.com/ORG/REPO/releases"><img src="https://img.shields.io/github/v/release/ORG/REPO" alt="Release" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/ORG/REPO" alt="License" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License" /></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-18%2B-339933?logo=node.js&logoColor=white" alt="Node.js 18+" /></a>
+  <a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/MCP-Server-000000" alt="MCP Server" /></a>
+  <a href="https://github.com/ORG/REPO/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/ORG/REPO/ci.yml?branch=main&label=build&color=1f6feb" alt="build status" /></a>
+  <a href="https://github.com/ORG/REPO/releases"><img src="https://img.shields.io/github/v/release/ORG/REPO?display_name=tag&color=0e8a16" alt="release" /></a>
+  <a href="https://github.com/ORG/REPO/issues"><img src="https://img.shields.io/github/issues/ORG/REPO?color=ff8c00" alt="open issues" /></a>
+  <a href="https://github.com/ORG/REPO"><img src="https://img.shields.io/github/stars/ORG/REPO?color=f1c40f" alt="stars" /></a>
 </p>
 
 <h1 align="center">PROJECT_NAME</h1>
@@ -19,6 +23,7 @@ Replace placeholders:
 - ORG/REPO
 - Header image: ./assets/brand/header.jpg
 - Demo image URL, screenshots, commands, and env vars
+Update badges (license version, Node.js version, MCP usage) as needed.
 Remove any sections you do not need.
 -->
 
@@ -146,7 +151,7 @@ YOUR_TEST_COMMANDS
 
 ## License
 
-LICENSE_TYPE.
+MIT.
 
 ## Support
 
